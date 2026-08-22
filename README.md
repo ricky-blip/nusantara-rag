@@ -2,7 +2,7 @@
 
 Backend FastAPI asisten GenAI berbasis RAG atas dokumen
 **Panduan Operasional Layanan Internal NusantaraCare v2.0**.
-Final Project AI Engineer Intermediate — Ricky Rinaldy.
+Final Project AI Engineer — Ricky Rinaldy.
 
 ## 1. Problem & Success Criteria
 **Problem:** Karyawan sulit menemukan jawaban di dokumen SOP yang panjang.
